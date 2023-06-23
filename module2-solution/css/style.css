@@ -16,10 +16,6 @@ h1 {
     width: 100%;
 }
 
-section {
-    border: 1px solid red;
-}
-
 section>div {
     border: 1px solid black;
     position: relative;
@@ -33,7 +29,8 @@ p {
 }
 
 span {
-    border: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
     width: 130px;
     height: 30px;
     display: flex;
