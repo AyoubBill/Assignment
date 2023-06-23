@@ -1,0 +1,9 @@
+/********** Large devices only **********/
+@media (min-width: 992px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 950px) and (max-width: 1199px) {
+    
+}
