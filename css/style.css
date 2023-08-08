@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family : Verdana, Geneva, sans-serif;
+    font-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 175%;
+}
+
+.row {
+    width: 100%;
+}
+
+section>div {
+    border: 1px solid black;
+    background-color: rgb(212, 206, 206);
+    margin: 10px;
+}
+
+p {
+    margin: 40px 10px 10px 10px;
+}
+
+.title {
+    border: 1px solid black;
+    width: 130px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 125%;
+}
+
+.chicken {
+    background-color: pink;
+    margin: 0 auto;
+}
+
+.beef {
+    background-color: red;
+    color: white;
+    margin: 0 auto;
+}
+
+.sushi {
+    background-color: yellowgreen;
+    margin: 0 auto;
+}
+
